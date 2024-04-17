@@ -4,7 +4,6 @@
 import requests
 import sys
 
-
 def get_todo_list_data(employee_id):
     """ Get the todo list data from a given employee id """
 
